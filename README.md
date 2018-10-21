@@ -18,7 +18,11 @@ This application developed using Angular6 , Typescript, Javascript & css.
 (https://picasaweb.google.com/109034889718681232328/6614513297071479585#6614513303255635778 "Question 4")
 
 
+## Screenshots:
 
+### Home Page:
+
+![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/home.PNG "Home Page")
 
 
 

@@ -2,15 +2,11 @@
 
 
 # Question 4
-
-##Working Example App: [Example App - Question 4]**(https://angularbot-de5ed.firebaseapp.com/)
-
-<br>
-
 This application developed using Angular6 , Typescript, Javascript & css.
 
-<br>
+## Working Example App: [Example App - Question 4]**(https://angularbot-de5ed.firebaseapp.com/)
 
+<br><br>
 
 
 ## Screenshot:

@@ -1,0 +1,158 @@
+<div class="page-wrapper">
+
+
+  <!-- Fikraspace Logo -->
+  <img src="https://scontent.fbgw3-1.fna.fbcdn.net/v/t1.0-9/41725366_2118027078230943_7168995347027460096_o.jpg?_nc_cat=111&_nc_ht=scontent.fbgw3-1.fna&oh=0389516a98a65f7d3c625b0926a9f49b&oe=5C492D36"  class="img-logo fikraspace-logo">
+  <!-- /Fikraspace Logo -->
+  
+  
+  
+  
+  
+  
+  
+  <!-- Qustion Card -->
+  <div class="qustion-card">
+  <div dir="auto" class="tag-card">Q4</div>
+  
+  <br>
+  
+  
+  <span class="qustion first-letter" dir="auto">
+  Write a function that combines two lists by alternatingly taking elements, e.g.
+  </span>
+  
+  
+  <br><br>
+  
+  <li>
+    [a,b,c], [1,2,3] → [a,1,b,2,c,3].
+  </li>
+  
+  <br/>
+  
+  <li>
+    [1,2,5,8,0], [9,4,8,7,6] → [1, 9, 2, 4, 5, 8, 8, 7, 0, 6].
+  </li>
+  
+  </div>
+  <!-- /Qustion Card -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!-- Answer Card answer-card -->
+  <div class="qustion-card">
+  <div dir="auto" class="tag-card">A</div>
+  
+  <br>
+  
+  
+  List One: {{list_One | json}}  →  {{list_One.length}} Elements
+  <br>
+  
+  <br>
+  List Two: {{list_two | json}} → {{list_two.length}} Elements
+  <br>
+  
+  
+  <br>
+  Total Elements:
+  {{list_One.length + list_two.length}} → 
+  
+    {{list | json}}
+  
+  
+  
+  
+  
+  
+    <input [(ngModel)]="list_One" placeholder="Enter Strings, numbers or letters"/>
+    <input [(ngModel)]="list_two" placeholder="Enter Strings, numbers or letters"/>
+  
+   
+      
+  
+     
+  
+    <!-- Combines two lists array function button -->
+    <button 
+      (click)="combine()"
+      [disabled]="list_One.length !== list_two.length">
+      Combine
+    </button>
+  
+    <p *ngIf="list_One.length !== list_two.length">
+      Plese, Enter Same array size for each input?
+    </p>
+  
+  
+  
+  
+  
+  </div>
+  <!-- /Answer Card -->
+  
+  
+  
+  
+  
+  
+  <!-- Answer Card answer-card -->
+  <div class="qustion-card">
+  <div dir="auto" class="tag-card">A</div>
+  
+  <br>
+  
+  
+  List One: {{list_three | json}}  →  {{list_three.length}} Elements
+  <br>
+  
+  <br>
+  List Two: {{list_four | json}} → {{list_four.length}} Elements
+  <br>
+  
+  
+  <br>
+  Total Elements:
+  {{list_three.length + list_four.length}} → 
+  
+    {{list_2 | json}}
+  
+  
+  
+  
+  
+    <input [(ngModel)]="list_three" placeholder="Enter Strings, numbers or letters"/>
+    <input [(ngModel)]="list_four" placeholder="Enter Strings, numbers or letters"/>
+  
+   
+      
+  
+    <!-- Combines two lists array function button -->
+    <button 
+      (click)="combine_2()"
+      [disabled]="list_three.length !== list_four.length ">
+      Combine
+    </button>
+  
+    <p *ngIf="list_three.length !== list_four.length">
+      Plese, Enter Same array size for each input?
+    </p>
+  
+  
+  
+  
+  </div>
+  <!-- /Answer Card -->
+  
+  
+  
+  
+  
+  </div>

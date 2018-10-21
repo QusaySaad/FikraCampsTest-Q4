@@ -15,7 +15,7 @@ This application developed using Angular6 , Typescript, Javascript & css.
 
 ## Screenshots:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/home.PNG "Home Page")
+![Alt text](https://github.com/QusaySaad/FikraCampsTest-Q4/blob/master/Q4_Screenshoot.png)
 
 <br><br>
 <hr>

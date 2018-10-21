@@ -4,8 +4,7 @@
 # Question 4
 This application developed using Angular6 , Typescript, Javascript & css.
 
-## Working Example App: [Example App - Question 4]
-**(https://angularbot-de5ed.firebaseapp.com/)
+## Working Example App Q4: ==> (https://angularbot-de5ed.firebaseapp.com/)
 
 <br><br>
 

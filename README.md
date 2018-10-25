@@ -1,6 +1,5 @@
 # FikraCamps Test - 
 
-This application developed using Angular6 , Typescript, Javascript & css.
 
 ### Program that combines two lists by alternatingly taking elements, e.g.  
   
@@ -10,6 +9,7 @@ This application developed using Angular6 , Typescript, Javascript & css.
 
 
 ## Working Example App: → (https://task-app-adc95.firebaseapp.com)
+This application developed using Angular6 , Typescript, Javascript & css.
 
 <br><br>
 
@@ -17,11 +17,6 @@ This application developed using Angular6 , Typescript, Javascript & css.
 ## Screenshot:
 
 ![Alt text](https://github.com/QusaySaad/FikraCampsTest-Q4/blob/master/Q4_Screenshoot.png)
-
-<br><br>
-<hr>
-
-
 
 
 

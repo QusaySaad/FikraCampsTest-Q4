@@ -1,4 +1,4 @@
-# FikraCamps Test - 
+# FikraCamps Test
 
 
 ### Program that combines two lists by alternatingly taking elements, e.g.  

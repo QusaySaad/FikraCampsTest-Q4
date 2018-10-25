@@ -1,8 +1,15 @@
-# FikraCamps Test - Question 4
+# FikraCamps Test - 
 
 This application developed using Angular6 , Typescript, Javascript & css.
 
-## Working Example App Q4: → (https://task-app-adc95.firebaseapp.com)
+### Program that combines two lists by alternatingly taking elements, e.g.  
+  
+-   [a,b,c], [1,2,3] → [a,1,b,2,c,3].
+  
+-   [1,2,5,8,0], [9,4,8,7,6] → [1, 9, 2, 4, 5, 8, 8, 7, 0, 6].
+
+
+## Working Example App: → (https://task-app-adc95.firebaseapp.com)
 
 <br><br>
 
@@ -13,15 +20,6 @@ This application developed using Angular6 , Typescript, Javascript & css.
 
 <br><br>
 <hr>
-
-### Q4 -Program that combines two lists by alternatingly taking elements, e.g.  
-  
--   [a,b,c], [1,2,3] → [a,1,b,2,c,3].
-  
--   [1,2,5,8,0], [9,4,8,7,6] → [1, 9, 2, 4, 5, 8, 8, 7, 0, 6].
-
-
-
 
 
 
